@@ -24,7 +24,7 @@ JLabel (teks), JTextField (kolom input angka), JButton (tombol operasi).
 
 ### 5. Event Listener
 - ActionListener (interface): override actionPerformed untuk semua tombol
-- MouseAdapter (adapter class): override mouseEntered dan mouseExited pada tombol Reset
+- MouseAdapter (adapter class): override mouseEntered dan mouseExited pada tombol C
 - WindowAdapter (adapter class): override windowClosing untuk dialog konfirmasi keluar
 
 ## Cara Menjalankan
